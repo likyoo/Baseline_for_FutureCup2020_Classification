@@ -8,7 +8,9 @@
 - torchvision 0.4.1+
 - tensorboardX
 
-## NAIE入口文件
+
+
+## 部分文件说明
 
 > main.py：NAIE入口文件
 >
