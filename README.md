@@ -29,3 +29,4 @@ Appreciate following works:
 - [weiaicunzai / pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100)
 - [未来杯赛事，跑通NAIE的一个demo](https://bbs.huaweicloud.com/forum/thread-69058-1-1.html)
 
+<u>**更多计算机视觉竞赛信息，欢迎关注微信公众号：CVBlog**</u>
